@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yazir Musthafa</h1>
+<h1 align="center">Hi 👋, I'm Yazir M</h1>
 <h3 align="center">💻 Always learning, always building | 📍 India</h3>
 
 ---
