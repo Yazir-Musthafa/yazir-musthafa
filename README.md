@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yazir Musthafa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Always learning, always building</h3>
 
 <p align="left"> <img src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1756299618~exp=1756303218~hmac=2204ff8568e2eb8153d8d8c1f774ac6a92f5fac7fb05a11c91f2378b5b3d0267&w=1480" alt="yazir-musthafa" /> </p>
 
