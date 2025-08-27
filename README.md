@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate **Mobile App Developer** (React Native, Flutter, Android)  
+- 🚀 **Mobile App Developer** with a curious mind (React Native, Flutter, Android)  
 - 🌐 Skilled **Full-Stack Developer** (MERN, Node.js, Django, Firebase)  
 - 🧩 Building scalable apps with **clean architecture & best practices**  
 - 📱 Crafting modern, high-performance apps with **beautiful UI/UX**  
