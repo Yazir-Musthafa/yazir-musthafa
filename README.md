@@ -52,10 +52,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazir-musthafa&show_icons=true&theme=radical" alt="stats" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazir-musthafa&show_icons=true&locale=en&layout=compact&theme=radical" alt="top langs" />
 </p>
 
