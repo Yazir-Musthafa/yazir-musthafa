@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazir-musthafa&show_icons=true&locale=en&layout=compact" alt="yazir-musthafa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazir-musthafa&show_icons=true&locale=en" alt="yazir-musthafa" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazir-musthafa&" alt="yazir-musthafa" /></p>
