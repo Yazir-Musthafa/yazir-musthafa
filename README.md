@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yazir Musthafa</h1>
-<h3 align="center">💻 Always learning, always building | 📍 India</h3>
+<h3 align="center">💻 Full-Stack & Mobile App Developer | 📍 India</h3>
 
 ---
 
@@ -14,9 +14,8 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/yazir-m]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yazirmusthafa1@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
